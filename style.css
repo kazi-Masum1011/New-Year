@@ -10,7 +10,7 @@
 }
 
 .banner-continer {
-    padding: 235px 240px 175px 619px;
+    padding: 235px 240px 175px 641px;
     text-align: right;
 }
 
@@ -213,8 +213,7 @@
 .footer-fast-child {
     width: 416px;
     color: #FFFFFF;
-    padding-top: 110px;
-    padding: 127px 0px 150px 230px;
+    padding: 127px 0px 150px 115px;
 }
 
 .footer-description {
@@ -231,7 +230,7 @@
 }
 
 .footer-second-child {
-    width: 345px;
+    width: 300px;
     margin-left: 240px;
 }
 
