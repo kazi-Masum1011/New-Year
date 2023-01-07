@@ -1,0 +1,270 @@
+* {
+    margin: 0%;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.banner-section {
+    background-image: url(new-year-new-me-main/images/banner/banner2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner-continer {
+    padding: 235px 240px 175px 791px;
+    text-align: right;
+}
+
+.benner-title {
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+}
+
+.benner-description {
+    color: #444343;
+    margin-top: 24px;
+    margin-bottom: 32px;
+}
+
+.primary-btn {
+    width: 160px;
+    height: 64px;
+    border: 0px;
+    border-radius: 5px;
+    background: #F15B22;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+/*My failures of previous year*/
+.slider-content {
+    display: flex;
+    margin-top: 50px;
+}
+
+.slider-main {
+    display: flex;
+    width: 1288px;
+    margin: auto;
+}
+
+.slider-img {
+    width: 569px;
+    height: 718.3px;
+}
+
+.slider-second-child {
+    width: 400px;
+    text-align: left;
+    margin-top: 290px;
+    margin-left: 84px;
+}
+
+.slider-title {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    margin: 36px;
+    padding-left: 4px;
+}
+
+.slider-description {
+    font-size: 16px;
+    color: #444343;
+    padding-left: 40px;
+}
+
+.icon-color {
+    color: aqua;
+    padding-right: 5px;
+}
+
+.list-child {
+    text-decoration: none;
+    display: block;
+    color: #444343;
+}
+
+/* My Plans*/
+.plan-tiem {
+    display: flex;
+    width: 1100px;
+    margin: auto;
+}
+
+.plan-slider {
+    text-align: center;
+    margin-top: 130px;
+}
+
+.plan-title {
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+
+.plan-item-child {
+    width: 275px;
+}
+
+.plan-sub-title {
+    margin-top: 25px;
+    margin-bottom: 8px;
+}
+
+.sub-title-child {
+    font-weight: 500;
+    font-size: 18px;
+    color: #737272;
+}
+
+/* more ditels  */
+
+.more-ditels-slider{
+    width: 1100px;
+    margin: auto;
+    text-align: center;
+    padding-top: 61px;
+}
+
+.ditels-continer{
+    width: 300px;
+    margin: auto;
+    background-color: #c9c3c31f;
+}
+.more-ditels-titel{
+    margin-top: 60px;
+    margin-bottom: 50px;
+    font-weight: 700;
+    font-size: 40px;
+
+}
+.more-ditels-sub-title{
+    margin-top: 12px;
+    margin-bottom: 7px;
+}
+
+.ditels-continer-mane{
+    display: flex;
+    text-align: left;
+    background-color: #d5d3d333;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
+.more-ditels-descripition{
+    color: #444343;
+    font-size: 18px;
+    padding-bottom: 15px;
+}
+
+.ditels-icon{
+    padding-top: 15px;
+    font-size: 38px;
+    color: rgba(62, 62, 183, 0.831);
+}
+
+/* last seaction */
+.call-slider {
+    width: 1100px;
+    margin: auto;
+    text-align: left;
+    background-image: url(new-year-new-me-main/images/watch.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 122px;
+    border-radius: 5px;
+}
+.call-continer{
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+    border-radius: 5px;
+}
+
+.call-title {
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+    padding: 59px 0px 24px 64px;
+}
+
+.call-btn {
+    margin-left: 64px;
+    margin-bottom: 59px;
+    width: 160px;
+    height: 64px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    border: none;
+    color: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+/* footer */
+.footer {
+    background: #151414;
+    margin-top: 130px;
+    display: flex;
+}
+
+.footer-fast-child {
+    width: 416px;
+    color: #FFFFFF;
+    padding-top: 110px;
+    padding: 110px 0px 150px 230px;
+}
+
+.footer-description {
+    margin-top: 16px;
+    margin-bottom: 24px;
+}
+
+.footer-sub-description {
+    margin-top: 16px;
+}
+
+.footer-img {
+    margin-top: 25px;
+}
+
+.footer-second-child {
+    width: 345px;
+    margin-left: 470px;
+}
+
+.footer-sub-title {
+    font-weight: 600;
+    font-size: 25px;
+    color: #FFFFFF;
+    margin-top: 130px;
+}
+.footer-input{
+    background: #151414;
+    color: #FFFFFF;
+    padding: 21px 75px 21px 22px;
+    border: 1px solid #FFFFFF;
+    margin-bottom: 16px;
+    margin-top: 31px;
+    font-size: 18px;
+    border-radius: 5px;
+
+}
+
+.subscribe {
+    width: 170px;
+    height: 64px;
+    border-radius: 5px;
+    color: #F15B22;
+    background: #FFFFFF;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
